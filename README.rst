@@ -3,6 +3,13 @@ distutils-extra
 
 **distutils-extra** can be used with python's distutils or the enhanced setuptools.
 
+0. INSTALLATION
+-------------------------
+
+.. code:: bash
+
+  pip install distutils-extra-python
+
 
 1. DISTUTILS
 -------------------------
